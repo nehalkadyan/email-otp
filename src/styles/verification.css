@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.verification{
+    width: 100%;
+    height: 110vh;
+    background-color: rgb(185, 185, 185);
+}
+
+.page__background{
+    max-width: 80%;
+    margin: auto;
+    background-color: #fff;
+    height: 87%;
+    padding-top: 4rem;
+    
+    
+    
+}
+
+
+
+.telegram__icon .icon{
+    font-size: 140px;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    
+    
+    
+}
+
+.icon{
+    color: blue;
+    font-weight: 300;
+}
+
+ h3{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 1.5rem;
+    margin-top: 3rem;
+ }
+
+ h6{
+    text-align: center;
+    font-size: 17px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+ }
+
+ .column__content{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+ }
+
+ label{
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(104, 103, 103);
+    
+ }
+
+ input{
+    width: 90%;
+    margin: auto;
+    height: 3rem;
+    margin-bottom: 1rem;
+    font-size: 18px;
+ }
+
+ button{
+    text-align: center;
+    width: 90%;
+    background-color: rgb(60, 60, 150);
+    margin: auto;
+    padding: 1rem 2rem;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+ }
+
+ button:hover{
+    background-color: rgb(27, 27, 97);
+}
+
+a{
+    text-align: center;
+    margin: 1rem 0rem;
+    color: rgb(88, 88, 185);
+    cursor: pointer;
+    letter-spacing: .6px;
+}
+
+
+
+
