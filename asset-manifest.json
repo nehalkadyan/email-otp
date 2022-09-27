@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/email-otp/static/css/main.d6395eb1.css",
+    "main.js": "/email-otp/static/js/main.cd1cef72.js",
+    "index.html": "/email-otp/index.html",
+    "main.d6395eb1.css.map": "/email-otp/static/css/main.d6395eb1.css.map",
+    "main.cd1cef72.js.map": "/email-otp/static/js/main.cd1cef72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6395eb1.css",
+    "static/js/main.cd1cef72.js"
+  ]
+}
